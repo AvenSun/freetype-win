@@ -1,5 +1,6 @@
 # Note
 
+![demo for ](https://github.com/adesun/freetype-win/blob/master/demo/demo.jpg?raw=true)
 1. slight modification to work with [freetype-py](https://github.com/rougier/freetype-py).
 1. both win32 and x64 dll are supplied (v2.8.1).
 1. dll compiled by VS2017,so you have to install Visual C++ 2017 runtime. ([win32](https://go.microsoft.com/fwlink/?LinkId=746571)    [x64](https://go.microsoft.com/fwlink/?LinkId=746572))
