@@ -1,0 +1,612 @@
+﻿cl : 命令行 warning D9002: 忽略未知选项“/arch:SSE2”
+cl : 命令行 warning D9002: 忽略未知选项“/arch:SSE2”
+  autofit.c
+cl : 命令行 warning D9002: 忽略未知选项“/arch:SSE2”
+cl : 命令行 warning D9002: 忽略未知选项“/arch:SSE2”
+  ftbitmap.c
+  ftfstype.c
+cl : 命令行 warning D9002: 忽略未知选项“/arch:SSE2”
+cl : 命令行 warning D9002: 忽略未知选项“/arch:SSE2”
+  ftgasp.c
+  ftstroke.c
+cl : 命令行 warning D9002: 忽略未知选项“/arch:SSE2”
+cl : 命令行 warning D9002: 忽略未知选项“/arch:SSE2”
+cl : 命令行 warning D9002: 忽略未知选项“/arch:SSE2”
+  ftbbox.c
+  ftfntfmt.c
+  ftpfr.c
+g:\freetype-2.8.1\src\autofit\afscript.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 ..\..\..\src\autofit\autofit.c)
+..\..\..\src\base\ftfntfmt.c(29): warning C4273: “FT_Get_Font_Format”: dll 链接不一致
+  ..\..\..\include\freetype/ftfntfmt.h(79): note: 参见“FT_Get_Font_Format”的前一个定义 (编译源文件 ..\..\..\src\base\ftfntfmt.c)
+g:\freetype-2.8.1\src\autofit\afblue.c : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 ..\..\..\src\autofit\autofit.c)
+..\..\..\src\base\ftstroke.c(42): warning C4273: “FT_Outline_GetInsideBorder”: dll 链接不一致
+  ..\..\..\include\freetype/ftstroke.h(234): note: 参见“FT_Outline_GetInsideBorder”的前一个定义 (编译源文件 ..\..\..\src\base\ftstroke.c)
+..\..\..\src\base\ftbitmap.c(35): warning C4273: “FT_Bitmap_Init”: dll 链接不一致
+  ..\..\..\include\freetype/ftbitmap.h(70): note: 参见“FT_Bitmap_Init”的前一个定义 (编译源文件 ..\..\..\src\base\ftbitmap.c)
+..\..\..\src\base\ftstroke.c(55): warning C4273: “FT_Outline_GetOutsideBorder”: dll 链接不一致
+  ..\..\..\include\freetype/ftstroke.h(255): note: 参见“FT_Outline_GetOutsideBorder”的前一个定义 (编译源文件 ..\..\..\src\base\ftstroke.c)
+..\..\..\src\base\ftfstype.c(29): warning C4273: “FT_Get_FSType_Flags”: dll 链接不一致
+  ..\..\..\include\freetype/freetype.h(3973): note: 参见“FT_Get_FSType_Flags”的前一个定义 (编译源文件 ..\..\..\src\base\ftfstype.c)
+..\..\..\src\base\ftbitmap.c(45): warning C4273: “FT_Bitmap_New”: dll 链接不一致
+  ..\..\..\include\freetype/ftbitmap.h(75): note: 参见“FT_Bitmap_New”的前一个定义 (编译源文件 ..\..\..\src\base\ftbitmap.c)
+..\..\..\src\base\ftfntfmt.c(44): warning C4273: “FT_Get_X11_Font_Format”: dll 链接不一致
+  ..\..\..\include\freetype/ftfntfmt.h(84): note: 参见“FT_Get_X11_Font_Format”的前一个定义 (编译源文件 ..\..\..\src\base\ftfntfmt.c)
+..\..\..\src\base\ftbitmap.c(57): warning C4273: “FT_Bitmap_Copy”: dll 链接不一致
+  ..\..\..\include\freetype/ftbitmap.h(98): note: 参见“FT_Bitmap_Copy”的前一个定义 (编译源文件 ..\..\..\src\base\ftbitmap.c)
+..\..\..\src\base\ftbbox.c(443): warning C4273: “FT_Outline_Get_BBox”: dll 链接不一致
+  ..\..\..\include\freetype/ftbbox.h(85): note: 参见“FT_Outline_Get_BBox”的前一个定义 (编译源文件 ..\..\..\src\base\ftbbox.c)
+..\..\..\src\base\ftbitmap.c(275): warning C4273: “FT_Bitmap_Embolden”: dll 链接不一致
+  ..\..\..\include\freetype/ftbitmap.h(139): note: 参见“FT_Bitmap_Embolden”的前一个定义 (编译源文件 ..\..\..\src\base\ftbitmap.c)
+..\..\..\src\base\ftbitmap.c(483): warning C4273: “FT_Bitmap_Convert”: dll 链接不一致
+  ..\..\..\include\freetype/ftbitmap.h(179): note: 参见“FT_Bitmap_Convert”的前一个定义 (编译源文件 ..\..\..\src\base\ftbitmap.c)
+g:\freetype-2.8.1\src\autofit\afblue.c(249): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 ..\..\..\src\autofit\autofit.c)
+..\..\..\src\base\ftstroke.c(802): warning C4273: “FT_Stroker_New”: dll 链接不一致
+  ..\..\..\include\freetype/ftstroke.h(278): note: 参见“FT_Stroker_New”的前一个定义 (编译源文件 ..\..\..\src\base\ftstroke.c)
+..\..\..\src\base\ftstroke.c(838): warning C4273: “FT_Stroker_Set”: dll 链接不一致
+  ..\..\..\include\freetype/ftstroke.h(315): note: 参见“FT_Stroker_Set”的前一个定义 (编译源文件 ..\..\..\src\base\ftstroke.c)
+..\..\..\src\base\ftstroke.c(863): warning C4273: “FT_Stroker_Rewind”: dll 链接不一致
+  ..\..\..\include\freetype/ftstroke.h(338): note: 参见“FT_Stroker_Rewind”的前一个定义 (编译源文件 ..\..\..\src\base\ftstroke.c)
+..\..\..\src\base\ftstroke.c(876): warning C4273: “FT_Stroker_Done”: dll 链接不一致
+  ..\..\..\include\freetype/ftstroke.h(691): note: 参见“FT_Stroker_Done”的前一个定义 (编译源文件 ..\..\..\src\base\ftstroke.c)
+..\..\..\src\base\ftbitmap.c(763): warning C4273: “FT_GlyphSlot_Own_Bitmap”: dll 链接不一致
+  ..\..\..\include\freetype/ftbitmap.h(204): note: 参见“FT_GlyphSlot_Own_Bitmap”的前一个定义 (编译源文件 ..\..\..\src\base\ftbitmap.c)
+..\..\..\src\base\ftbitmap.c(789): warning C4273: “FT_Bitmap_Done”: dll 链接不一致
+  ..\..\..\include\freetype/ftbitmap.h(228): note: 参见“FT_Bitmap_Done”的前一个定义 (编译源文件 ..\..\..\src\base\ftbitmap.c)
+..\..\..\src\base\ftstroke.c(1298): warning C4273: “FT_Stroker_LineTo”: dll 链接不一致
+  ..\..\..\include\freetype/ftstroke.h(459): note: 参见“FT_Stroker_LineTo”的前一个定义 (编译源文件 ..\..\..\src\base\ftstroke.c)
+..\..\..\src\base\ftstroke.c(1375): warning C4273: “FT_Stroker_ConicTo”: dll 链接不一致
+  ..\..\..\include\freetype/ftstroke.h(490): note: 参见“FT_Stroker_ConicTo”的前一个定义 (编译源文件 ..\..\..\src\base\ftstroke.c)
+..\..\..\src\base\ftstroke.c(1577): warning C4273: “FT_Stroker_CubicTo”: dll 链接不一致
+  ..\..\..\include\freetype/ftstroke.h(525): note: 参见“FT_Stroker_CubicTo”的前一个定义 (编译源文件 ..\..\..\src\base\ftstroke.c)
+..\..\..\src\base\ftgasp.c(27): warning C4273: “FT_Get_Gasp”: dll 链接不一致
+  ..\..\..\include\freetype/ftgasp.h(128): note: 参见“FT_Get_Gasp”的前一个定义 (编译源文件 ..\..\..\src\base\ftgasp.c)
+..\..\..\src\base\ftpfr.c(47): warning C4273: “FT_Get_PFR_Metrics”: dll 链接不一致
+  ..\..\..\include\freetype/ftpfr.h(90): note: 参见“FT_Get_PFR_Metrics”的前一个定义 (编译源文件 ..\..\..\src\base\ftpfr.c)
+..\..\..\src\base\ftpfr.c(103): warning C4273: “FT_Get_PFR_Kerning”: dll 链接不一致
+  ..\..\..\include\freetype/ftpfr.h(129): note: 参见“FT_Get_PFR_Kerning”的前一个定义 (编译源文件 ..\..\..\src\base\ftpfr.c)
+..\..\..\src\base\ftstroke.c(1792): warning C4273: “FT_Stroker_BeginSubPath”: dll 链接不一致
+  ..\..\..\include\freetype/ftstroke.h(406): note: 参见“FT_Stroker_BeginSubPath”的前一个定义 (编译源文件 ..\..\..\src\base\ftstroke.c)
+..\..\..\src\base\ftpfr.c(131): warning C4273: “FT_Get_PFR_Advance”: dll 链接不一致
+  ..\..\..\include\freetype/ftpfr.h(160): note: 参见“FT_Get_PFR_Advance”的前一个定义 (编译源文件 ..\..\..\src\base\ftpfr.c)
+..\..\..\src\base\ftstroke.c(1892): warning C4273: “FT_Stroker_EndSubPath”: dll 链接不一致
+  ..\..\..\include\freetype/ftstroke.h(432): note: 参见“FT_Stroker_EndSubPath”的前一个定义 (编译源文件 ..\..\..\src\base\ftstroke.c)
+..\..\..\src\base\ftstroke.c(1988): warning C4273: “FT_Stroker_GetBorderCounts”: dll 链接不一致
+  ..\..\..\include\freetype/ftstroke.h(571): note: 参见“FT_Stroker_GetBorderCounts”的前一个定义 (编译源文件 ..\..\..\src\base\ftstroke.c)
+..\..\..\src\base\ftstroke.c(2018): warning C4273: “FT_Stroker_GetCounts”: dll 链接不一致
+  ..\..\..\include\freetype/ftstroke.h(648): note: 参见“FT_Stroker_GetCounts”的前一个定义 (编译源文件 ..\..\..\src\base\ftstroke.c)
+..\..\..\src\base\ftstroke.c(2060): warning C4273: “FT_Stroker_ExportBorder”: dll 链接不一致
+  ..\..\..\include\freetype/ftstroke.h(617): note: 参见“FT_Stroker_ExportBorder”的前一个定义 (编译源文件 ..\..\..\src\base\ftstroke.c)
+..\..\..\src\base\ftstroke.c(2081): warning C4273: “FT_Stroker_Export”: dll 链接不一致
+  ..\..\..\include\freetype/ftstroke.h(674): note: 参见“FT_Stroker_Export”的前一个定义 (编译源文件 ..\..\..\src\base\ftstroke.c)
+g:\freetype-2.8.1\src\autofit\afscript.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 ..\..\..\src\autofit\autofit.c)
+..\..\..\src\base\ftstroke.c(2097): warning C4273: “FT_Stroker_ParseOutline”: dll 链接不一致
+  ..\..\..\include\freetype/ftstroke.h(375): note: 参见“FT_Stroker_ParseOutline”的前一个定义 (编译源文件 ..\..\..\src\base\ftstroke.c)
+..\..\..\src\base\ftstroke.c(2305): warning C4273: “FT_Glyph_Stroke”: dll 链接不一致
+  ..\..\..\include\freetype/ftstroke.h(726): note: 参见“FT_Glyph_Stroke”的前一个定义 (编译源文件 ..\..\..\src\base\ftstroke.c)
+..\..\..\src\base\ftstroke.c(2385): warning C4273: “FT_Glyph_StrokeBorder”: dll 链接不一致
+  ..\..\..\include\freetype/ftstroke.h(768): note: 参见“FT_Glyph_StrokeBorder”的前一个定义 (编译源文件 ..\..\..\src\base\ftstroke.c)
+g:\freetype-2.8.1\src\autofit\afscript.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 ..\..\..\src\autofit\autofit.c)
+g:\freetype-2.8.1\src\autofit\afscript.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 ..\..\..\src\autofit\autofit.c)
+g:\freetype-2.8.1\src\autofit\afscript.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 ..\..\..\src\autofit\autofit.c)
+g:\freetype-2.8.1\src\autofit\afscript.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 ..\..\..\src\autofit\autofit.c)
+  ftsynth.c
+  fttype1.c
+  ftwinfnt.c
+  ftlcdfil.c
+  ftgxval.c
+  ftotval.c
+..\..\..\src\base\fttype1.c(31): warning C4273: “FT_Get_PS_Font_Info”: dll 链接不一致
+  ..\..\..\include\freetype/t1tables.h(504): note: 参见“FT_Get_PS_Font_Info”的前一个定义 (编译源文件 ..\..\..\src\base\fttype1.c)
+..\..\..\src\base\fttype1.c(57): warning C4273: “FT_Has_PS_Glyph_Names”: dll 链接不一致
+  ..\..\..\include\freetype/t1tables.h(471): note: 参见“FT_Has_PS_Glyph_Names”的前一个定义 (编译源文件 ..\..\..\src\base\fttype1.c)
+..\..\..\src\base\fttype1.c(79): warning C4273: “FT_Get_PS_Font_Private”: dll 链接不一致
+  ..\..\..\include\freetype/t1tables.h(537): note: 参见“FT_Get_PS_Font_Private”的前一个定义 (编译源文件 ..\..\..\src\base\fttype1.c)
+..\..\..\src\base\fttype1.c(109): warning C4273: “FT_Get_PS_Font_Value”: dll 链接不一致
+  ..\..\..\include\freetype/t1tables.h(748): note: 参见“FT_Get_PS_Font_Value”的前一个定义 (编译源文件 ..\..\..\src\base\fttype1.c)
+..\..\..\src\base\ftsynth.c(49): warning C4273: “FT_GlyphSlot_Oblique”: dll 链接不一致
+  ..\..\..\include\freetype/ftsynth.h(74): note: 参见“FT_GlyphSlot_Oblique”的前一个定义 (编译源文件 ..\..\..\src\base\ftsynth.c)
+..\..\..\src\base\ftlcdfil.c(329): warning C4273: “FT_Library_SetLcdFilterWeights”: dll 链接不一致
+  ..\..\..\include\freetype/ftlcdfil.h(279): note: 参见“FT_Library_SetLcdFilterWeights”的前一个定义 (编译源文件 ..\..\..\src\base\ftlcdfil.c)
+..\..\..\src\base\ftsynth.c(91): warning C4273: “FT_GlyphSlot_Embolden”: dll 链接不一致
+  ..\..\..\include\freetype/ftsynth.h(70): note: 参见“FT_GlyphSlot_Embolden”的前一个定义 (编译源文件 ..\..\..\src\base\ftsynth.c)
+..\..\..\src\base\ftlcdfil.c(340): warning C4273: “FT_Library_SetLcdFilter”: dll 链接不一致
+  ..\..\..\include\freetype/ftlcdfil.h(241): note: 参见“FT_Library_SetLcdFilter”的前一个定义 (编译源文件 ..\..\..\src\base\ftlcdfil.c)
+..\..\..\src\base\ftwinfnt.c(31): warning C4273: “FT_Get_WinFNT_Header”: dll 链接不一致
+  ..\..\..\include\freetype/ftwinfnt.h(259): note: 参见“FT_Get_WinFNT_Header”的前一个定义 (编译源文件 ..\..\..\src\base\ftwinfnt.c)
+  ftpatent.c
+..\..\..\src\base\ftotval.c(36): warning C4273: “FT_OpenType_Validate”: dll 链接不一致
+  ..\..\..\include\freetype/ftotval.h(164): note: 参见“FT_OpenType_Validate”的前一个定义 (编译源文件 ..\..\..\src\base\ftotval.c)
+..\..\..\src\base\ftotval.c(78): warning C4273: “FT_OpenType_Free”: dll 链接不一致
+  ..\..\..\include\freetype/ftotval.h(193): note: 参见“FT_OpenType_Free”的前一个定义 (编译源文件 ..\..\..\src\base\ftotval.c)
+..\..\..\src\base\ftgxval.c(42): warning C4273: “FT_TrueTypeGX_Validate”: dll 链接不一致
+  ..\..\..\include\freetype/ftgxval.h(226): note: 参见“FT_TrueTypeGX_Validate”的前一个定义 (编译源文件 ..\..\..\src\base\ftgxval.c)
+..\..\..\src\base\ftgxval.c(77): warning C4273: “FT_TrueTypeGX_Free”: dll 链接不一致
+  ..\..\..\include\freetype/ftgxval.h(253): note: 参见“FT_TrueTypeGX_Free”的前一个定义 (编译源文件 ..\..\..\src\base\ftgxval.c)
+..\..\..\src\base\ftgxval.c(94): warning C4273: “FT_ClassicKern_Validate”: dll 链接不一致
+  ..\..\..\include\freetype/ftgxval.h(320): note: 参见“FT_ClassicKern_Validate”的前一个定义 (编译源文件 ..\..\..\src\base\ftgxval.c)
+..\..\..\src\base\ftgxval.c(128): warning C4273: “FT_ClassicKern_Free”: dll 链接不一致
+  ..\..\..\include\freetype/ftgxval.h(346): note: 参见“FT_ClassicKern_Free”的前一个定义 (编译源文件 ..\..\..\src\base\ftgxval.c)
+..\..\..\src\base\ftpatent.c(32): warning C4273: “FT_Face_CheckTrueTypePatents”: dll 链接不一致
+  ..\..\..\include\freetype/freetype.h(4520): note: 参见“FT_Face_CheckTrueTypePatents”的前一个定义 (编译源文件 ..\..\..\src\base\ftpatent.c)
+..\..\..\src\base\ftpatent.c(44): warning C4273: “FT_Face_SetUnpatentedHinting”: dll 链接不一致
+  ..\..\..\include\freetype/freetype.h(4546): note: 参见“FT_Face_SetUnpatentedHinting”的前一个定义 (编译源文件 ..\..\..\src\base\ftpatent.c)
+cl : 命令行 warning D9002: 忽略未知选项“/arch:SSE2”
+cl : 命令行 warning D9002: 忽略未知选项“/arch:SSE2”
+cl : 命令行 warning D9002: 忽略未知选项“/arch:SSE2”
+  bdf.c
+cl : 命令行 warning D9002: 忽略未知选项“/arch:SSE2”
+cl : 命令行 warning D9002: 忽略未知选项“/arch:SSE2”
+  cff.c
+cl : 命令行 warning D9002: 忽略未知选项“/arch:SSE2”
+  ftbase.c
+  ftcache.c
+  ftglyph.c
+cl : 命令行 warning D9002: 忽略未知选项“/arch:SSE2”
+cl : 命令行 warning D9002: 忽略未知选项“/arch:SSE2”
+cl : 命令行 warning D9002: 忽略未知选项“/arch:SSE2”
+  ftgzip.c
+  ftinit.c
+  ftlzw.c
+g:\freetype-2.8.1\src\base\ftadvanc.c(79): warning C4273: “FT_Get_Advance”: dll 链接不一致 (编译源文件 ..\..\..\src\base\ftbase.c)
+  ..\..\..\include\freetype/ftadvanc.h(122): note: 参见“FT_Get_Advance”的前一个定义 (编译源文件 ..\..\..\src\base\ftbase.c)
+g:\freetype-2.8.1\src\base\ftadvanc.c(118): warning C4273: “FT_Get_Advances”: dll 链接不一致 (编译源文件 ..\..\..\src\base\ftbase.c)
+  ..\..\..\include\freetype/ftadvanc.h(173): note: 参见“FT_Get_Advances”的前一个定义 (编译源文件 ..\..\..\src\base\ftbase.c)
+..\..\..\src\lzw\ftlzw.c(349): warning C4273: “FT_Stream_OpenLZW”: dll 链接不一致
+  ..\..\..\include\freetype/ftlzw.h(88): note: 参见“FT_Stream_OpenLZW”的前一个定义 (编译源文件 ..\..\..\src\lzw\ftlzw.c)
+g:\freetype-2.8.1\src\base\ftcalc.c(89): warning C4273: “FT_RoundFix”: dll 链接不一致 (编译源文件 ..\..\..\src\base\ftbase.c)
+  ..\..\..\include\freetype/freetype.h(4343): note: 参见“FT_RoundFix”的前一个定义 (编译源文件 ..\..\..\src\base\ftbase.c)
+g:\freetype-2.8.1\src\base\ftcalc.c(98): warning C4273: “FT_CeilFix”: dll 链接不一致 (编译源文件 ..\..\..\src\base\ftbase.c)
+  ..\..\..\include\freetype/freetype.h(4364): note: 参见“FT_CeilFix”的前一个定义 (编译源文件 ..\..\..\src\base\ftbase.c)
+g:\freetype-2.8.1\src\base\ftcalc.c(107): warning C4273: “FT_FloorFix”: dll 链接不一致 (编译源文件 ..\..\..\src\base\ftbase.c)
+  ..\..\..\include\freetype/freetype.h(4382): note: 参见“FT_FloorFix”的前一个定义 (编译源文件 ..\..\..\src\base\ftbase.c)
+..\..\..\src\base\ftinit.c(199): warning C4273: “FT_Add_Default_Modules”: dll 链接不一致
+  ..\..\..\include\freetype/ftmodapi.h(622): note: 参见“FT_Add_Default_Modules”的前一个定义 (编译源文件 ..\..\..\src\base\ftinit.c)
+..\..\..\src\base\ftinit.c(237): warning C4273: “FT_Set_Default_Properties”: dll 链接不一致
+  ..\..\..\include\freetype/ftmodapi.h(479): note: 参见“FT_Set_Default_Properties”的前一个定义 (编译源文件 ..\..\..\src\base\ftinit.c)
+g:\freetype-2.8.1\src\base\ftcalc.c(419): warning C4273: “FT_MulDiv”: dll 链接不一致 (编译源文件 ..\..\..\src\base\ftbase.c)
+  ..\..\..\include\freetype/freetype.h(4263): note: 参见“FT_MulDiv”的前一个定义 (编译源文件 ..\..\..\src\base\ftbase.c)
+g:\freetype-2.8.1\src\cache\ftcbasic.c(275): warning C4273: “FTC_ImageCache_New”: dll 链接不一致 (编译源文件 ..\..\..\src\cache\ftcache.c)
+  ..\..\..\include\freetype/ftcache.h(729): note: 参见“FTC_ImageCache_New”的前一个定义 (编译源文件 ..\..\..\src\cache\ftcache.c)
+..\..\..\src\base\ftinit.c(321): warning C4273: “FT_Init_FreeType”: dll 链接不一致
+  ..\..\..\include\freetype/freetype.h(1902): note: 参见“FT_Init_FreeType”的前一个定义 (编译源文件 ..\..\..\src\base\ftinit.c)
+..\..\..\src\base\ftinit.c(357): warning C4273: “FT_Done_FreeType”: dll 链接不一致
+  ..\..\..\include\freetype/freetype.h(1921): note: 参见“FT_Done_FreeType”的前一个定义 (编译源文件 ..\..\..\src\base\ftinit.c)
+g:\freetype-2.8.1\src\cache\ftcbasic.c(289): warning C4273: “FTC_ImageCache_Lookup”: dll 链接不一致 (编译源文件 ..\..\..\src\cache\ftcache.c)
+  ..\..\..\include\freetype/ftcache.h(776): note: 参见“FTC_ImageCache_Lookup”的前一个定义 (编译源文件 ..\..\..\src\cache\ftcache.c)
+g:\freetype-2.8.1\src\base\ftcalc.c(511): warning C4273: “FT_MulFix”: dll 链接不一致 (编译源文件 ..\..\..\src\base\ftbase.c)
+  ..\..\..\include\freetype/freetype.h(4298): note: 参见“FT_MulFix”的前一个定义 (编译源文件 ..\..\..\src\base\ftbase.c)
+g:\freetype-2.8.1\src\base\ftcalc.c(610): warning C4273: “FT_DivFix”: dll 链接不一致 (编译源文件 ..\..\..\src\base\ftbase.c)
+  ..\..\..\include\freetype/freetype.h(4320): note: 参见“FT_DivFix”的前一个定义 (编译源文件 ..\..\..\src\base\ftbase.c)
+..\..\..\src\base\ftglyph.c(318): warning C4273: “FT_Glyph_Copy”: dll 链接不一致
+  ..\..\..\include\freetype/ftglyph.h(265): note: 参见“FT_Glyph_Copy”的前一个定义 (编译源文件 ..\..\..\src\base\ftglyph.c)
+g:\freetype-2.8.1\src\base\ftcalc.c(663): warning C4273: “FT_Matrix_Multiply”: dll 链接不一致 (编译源文件 ..\..\..\src\base\ftbase.c)
+  ..\..\..\include\freetype/ftglyph.h(579): note: 参见“FT_Matrix_Multiply”的前一个定义 (编译源文件 ..\..\..\src\base\ftbase.c)
+..\..\..\src\base\ftglyph.c(365): warning C4273: “FT_Get_Glyph”: dll 链接不一致
+  ..\..\..\include\freetype/ftglyph.h(241): note: 参见“FT_Get_Glyph”的前一个定义 (编译源文件 ..\..\..\src\base\ftglyph.c)
+g:\freetype-2.8.1\src\base\ftcalc.c(690): warning C4273: “FT_Matrix_Invert”: dll 链接不一致 (编译源文件 ..\..\..\src\base\ftbase.c)
+  ..\..\..\include\freetype/ftglyph.h(599): note: 参见“FT_Matrix_Invert”的前一个定义 (编译源文件 ..\..\..\src\base\ftbase.c)
+..\..\..\src\base\ftglyph.c(450): warning C4273: “FT_Glyph_Transform”: dll 链接不一致
+  ..\..\..\include\freetype/ftglyph.h(294): note: 参见“FT_Glyph_Transform”的前一个定义 (编译源文件 ..\..\..\src\base\ftglyph.c)
+g:\freetype-2.8.1\src\cache\ftcbasic.c(370): warning C4273: “FTC_ImageCache_LookupScaler”: dll 链接不一致 (编译源文件 ..\..\..\src\cache\ftcache.c)
+  ..\..\..\include\freetype/ftcache.h(832): note: 参见“FTC_ImageCache_LookupScaler”的前一个定义 (编译源文件 ..\..\..\src\cache\ftcache.c)
+..\..\..\src\base\ftglyph.c(483): warning C4273: “FT_Glyph_Get_CBox”: dll 链接不一致
+  ..\..\..\include\freetype/ftglyph.h(413): note: 参见“FT_Glyph_Get_CBox”的前一个定义 (编译源文件 ..\..\..\src\base\ftglyph.c)
+..\..\..\src\base\ftglyph.c(531): warning C4273: “FT_Glyph_To_Bitmap”: dll 链接不一致
+  ..\..\..\include\freetype/ftglyph.h(525): note: 参见“FT_Glyph_To_Bitmap”的前一个定义 (编译源文件 ..\..\..\src\base\ftglyph.c)
+..\..\..\src\base\ftglyph.c(634): warning C4273: “FT_Done_Glyph”: dll 链接不一致
+  ..\..\..\include\freetype/ftglyph.h(543): note: 参见“FT_Done_Glyph”的前一个定义 (编译源文件 ..\..\..\src\base\ftglyph.c)
+g:\freetype-2.8.1\src\cache\ftcbasic.c(475): warning C4273: “FTC_SBitCache_New”: dll 链接不一致 (编译源文件 ..\..\..\src\cache\ftcache.c)
+  ..\..\..\include\freetype/ftcache.h(937): note: 参见“FTC_SBitCache_New”的前一个定义 (编译源文件 ..\..\..\src\cache\ftcache.c)
+g:\freetype-2.8.1\src\cache\ftcbasic.c(489): warning C4273: “FTC_SBitCache_Lookup”: dll 链接不一致 (编译源文件 ..\..\..\src\cache\ftcache.c)
+  ..\..\..\include\freetype/ftcache.h(987): note: 参见“FTC_SBitCache_Lookup”的前一个定义 (编译源文件 ..\..\..\src\cache\ftcache.c)
+g:\freetype-2.8.1\src\cache\ftcbasic.c(572): warning C4273: “FTC_SBitCache_LookupScaler”: dll 链接不一致 (编译源文件 ..\..\..\src\cache\ftcache.c)
+  ..\..\..\include\freetype/ftcache.h(1042): note: 参见“FTC_SBitCache_LookupScaler”的前一个定义 (编译源文件 ..\..\..\src\cache\ftcache.c)
+g:\freetype-2.8.1\src\cache\ftccmap.c(221): warning C4273: “FTC_CMapCache_New”: dll 链接不一致 (编译源文件 ..\..\..\src\cache\ftcache.c)
+  ..\..\..\include\freetype/ftcache.h(588): note: 参见“FTC_CMapCache_New”的前一个定义 (编译源文件 ..\..\..\src\cache\ftcache.c)
+g:\freetype-2.8.1\src\cache\ftccmap.c(235): warning C4273: “FTC_CMapCache_Lookup”: dll 链接不一致 (编译源文件 ..\..\..\src\cache\ftcache.c)
+  ..\..\..\include\freetype/ftcache.h(620): note: 参见“FTC_CMapCache_Lookup”的前一个定义 (编译源文件 ..\..\..\src\cache\ftcache.c)
+g:\freetype-2.8.1\src\cache\ftcmanag.c(186): warning C4273: “FTC_Manager_LookupSize”: dll 链接不一致 (编译源文件 ..\..\..\src\cache\ftcache.c)
+  ..\..\..\include\freetype/ftcache.h(486): note: 参见“FTC_Manager_LookupSize”的前一个定义 (编译源文件 ..\..\..\src\cache\ftcache.c)
+g:\freetype-2.8.1\src\cache\ftcmanag.c(313): warning C4273: “FTC_Manager_LookupFace”: dll 链接不一致 (编译源文件 ..\..\..\src\cache\ftcache.c)
+  ..\..\..\include\freetype/ftcache.h(389): note: 参见“FTC_Manager_LookupFace”的前一个定义 (编译源文件 ..\..\..\src\cache\ftcache.c)
+g:\freetype-2.8.1\src\cache\ftcmanag.c(362): warning C4273: “FTC_Manager_New”: dll 链接不一致 (编译源文件 ..\..\..\src\cache\ftcache.c)
+  ..\..\..\include\freetype/ftcache.h(308): note: 参见“FTC_Manager_New”的前一个定义 (编译源文件 ..\..\..\src\cache\ftcache.c)
+g:\freetype-2.8.1\src\cache\ftcmanag.c(418): warning C4273: “FTC_Manager_Done”: dll 链接不一致 (编译源文件 ..\..\..\src\cache\ftcache.c)
+  ..\..\..\include\freetype/ftcache.h(345): note: 参见“FTC_Manager_Done”的前一个定义 (编译源文件 ..\..\..\src\cache\ftcache.c)
+g:\freetype-2.8.1\src\cache\ftcmanag.c(458): warning C4273: “FTC_Manager_Reset”: dll 链接不一致 (编译源文件 ..\..\..\src\cache\ftcache.c)
+  ..\..\..\include\freetype/ftcache.h(330): note: 参见“FTC_Manager_Reset”的前一个定义 (编译源文件 ..\..\..\src\cache\ftcache.c)
+g:\freetype-2.8.1\src\cache\ftcmanag.c(672): warning C4273: “FTC_Manager_RemoveFaceID”: dll 链接不一致 (编译源文件 ..\..\..\src\cache\ftcache.c)
+  ..\..\..\include\freetype/ftcache.h(539): note: 参见“FTC_Manager_RemoveFaceID”的前一个定义 (编译源文件 ..\..\..\src\cache\ftcache.c)
+g:\freetype-2.8.1\src\cache\ftcmanag.c(696): warning C4273: “FTC_Node_Unref”: dll 链接不一致 (编译源文件 ..\..\..\src\cache\ftcache.c)
+  ..\..\..\include\freetype/ftcache.h(507): note: 参见“FTC_Node_Unref”的前一个定义 (编译源文件 ..\..\..\src\cache\ftcache.c)
+..\..\..\src\gzip\ftgzip.c(625): warning C4273: “FT_Stream_OpenGzip”: dll 链接不一致
+  ..\..\..\include\freetype/ftgzip.h(91): note: 参见“FT_Stream_OpenGzip”的前一个定义 (编译源文件 ..\..\..\src\gzip\ftgzip.c)
+g:\freetype-2.8.1\src\base\ftobjs.c(521): warning C4273: “FT_Set_Transform”: dll 链接不一致 (编译源文件 ..\..\..\src\base\ftbase.c)
+  ..\..\..\include\freetype/freetype.h(3083): note: 参见“FT_Set_Transform”的前一个定义 (编译源文件 ..\..\..\src\base\ftbase.c)
+..\..\..\src\gzip\ftgzip.c(731): warning C4273: “FT_Gzip_Uncompress”: dll 链接不一致
+  ..\..\..\include\freetype/ftgzip.h(134): note: 参见“FT_Gzip_Uncompress”的前一个定义 (编译源文件 ..\..\..\src\gzip\ftgzip.c)
+g:\freetype-2.8.1\src\base\ftobjs.c(628): warning C4273: “FT_Load_Glyph”: dll 链接不一致 (编译源文件 ..\..\..\src\base\ftbase.c)
+  ..\..\..\include\freetype/freetype.h(2713): note: 参见“FT_Load_Glyph”的前一个定义 (编译源文件 ..\..\..\src\base\ftbase.c)
+g:\freetype-2.8.1\src\base\ftobjs.c(884): warning C4273: “FT_Load_Char”: dll 链接不一致 (编译源文件 ..\..\..\src\base\ftbase.c)
+  ..\..\..\include\freetype/freetype.h(2752): note: 参见“FT_Load_Char”的前一个定义 (编译源文件 ..\..\..\src\base\ftbase.c)
+g:\freetype-2.8.1\src\base\ftobjs.c(1254): warning C4273: “FT_New_Face”: dll 链接不一致 (编译源文件 ..\..\..\src\base\ftbase.c)
+  ..\..\..\include\freetype/freetype.h(2093): note: 参见“FT_New_Face”的前一个定义 (编译源文件 ..\..\..\src\base\ftbase.c)
+g:\freetype-2.8.1\src\base\ftobjs.c(1280): warning C4273: “FT_New_Memory_Face”: dll 链接不一致 (编译源文件 ..\..\..\src\base\ftbase.c)
+  ..\..\..\include\freetype/freetype.h(2130): note: 参见“FT_New_Memory_Face”的前一个定义 (编译源文件 ..\..\..\src\base\ftbase.c)
+g:\freetype-2.8.1\src\base\ftobjs.c(2165): warning C4273: “FT_Open_Face”: dll 链接不一致 (编译源文件 ..\..\..\src\base\ftbase.c)
+  ..\..\..\include\freetype/freetype.h(2279): note: 参见“FT_Open_Face”的前一个定义 (编译源文件 ..\..\..\src\base\ftbase.c)
+g:\freetype-2.8.1\src\base\ftobjs.c(2486): warning C4273: “FT_Attach_File”: dll 链接不一致 (编译源文件 ..\..\..\src\base\ftbase.c)
+  ..\..\..\include\freetype/freetype.h(2303): note: 参见“FT_Attach_File”的前一个定义 (编译源文件 ..\..\..\src\base\ftbase.c)
+g:\freetype-2.8.1\src\base\ftobjs.c(2508): warning C4273: “FT_Attach_Stream”: dll 链接不一致 (编译源文件 ..\..\..\src\base\ftbase.c)
+  ..\..\..\include\freetype/freetype.h(2338): note: 参见“FT_Attach_Stream”的前一个定义 (编译源文件 ..\..\..\src\base\ftbase.c)
+g:\freetype-2.8.1\src\base\ftobjs.c(2551): warning C4273: “FT_Reference_Face”: dll 链接不一致 (编译源文件 ..\..\..\src\base\ftbase.c)
+  ..\..\..\include\freetype/freetype.h(2366): note: 参见“FT_Reference_Face”的前一个定义 (编译源文件 ..\..\..\src\base\ftbase.c)
+g:\freetype-2.8.1\src\base\ftobjs.c(2565): warning C4273: “FT_Done_Face”: dll 链接不一致 (编译源文件 ..\..\..\src\base\ftbase.c)
+  ..\..\..\include\freetype/freetype.h(2389): note: 参见“FT_Done_Face”的前一个定义 (编译源文件 ..\..\..\src\base\ftbase.c)
+g:\freetype-2.8.1\src\base\ftobjs.c(2607): warning C4273: “FT_New_Size”: dll 链接不一致 (编译源文件 ..\..\..\src\base\ftbase.c)
+  ..\..\..\include\freetype/ftsizes.h(100): note: 参见“FT_New_Size”的前一个定义 (编译源文件 ..\..\..\src\base\ftbase.c)
+g:\freetype-2.8.1\src\base\ftobjs.c(2671): warning C4273: “FT_Done_Size”: dll 链接不一致 (编译源文件 ..\..\..\src\base\ftbase.c)
+  ..\..\..\include\freetype/ftsizes.h(121): note: 参见“FT_Done_Size”的前一个定义 (编译源文件 ..\..\..\src\base\ftbase.c)
+g:\freetype-2.8.1\src\base\ftobjs.c(3007): warning C4273: “FT_Select_Size”: dll 链接不一致 (编译源文件 ..\..\..\src\base\ftbase.c)
+  ..\..\..\include\freetype/freetype.h(2428): note: 参见“FT_Select_Size”的前一个定义 (编译源文件 ..\..\..\src\base\ftbase.c)
+g:\freetype-2.8.1\src\base\ftobjs.c(3059): warning C4273: “FT_Request_Size”: dll 链接不一致 (编译源文件 ..\..\..\src\base\ftbase.c)
+  ..\..\..\include\freetype/freetype.h(2590): note: 参见“FT_Request_Size”的前一个定义 (编译源文件 ..\..\..\src\base\ftbase.c)
+g:\freetype-2.8.1\src\base\ftobjs.c(3139): warning C4273: “FT_Set_Char_Size”: dll 链接不一致 (编译源文件 ..\..\..\src\base\ftbase.c)
+  ..\..\..\include\freetype/freetype.h(2634): note: 参见“FT_Set_Char_Size”的前一个定义 (编译源文件 ..\..\..\src\base\ftbase.c)
+g:\freetype-2.8.1\src\base\ftobjs.c(3179): warning C4273: “FT_Set_Pixel_Sizes”: dll 链接不一致 (编译源文件 ..\..\..\src\base\ftbase.c)
+  ..\..\..\include\freetype/freetype.h(2668): note: 参见“FT_Set_Pixel_Sizes”的前一个定义 (编译源文件 ..\..\..\src\base\ftbase.c)
+g:\freetype-2.8.1\src\base\ftobjs.c(3219): warning C4273: “FT_Get_Kerning”: dll 链接不一致 (编译源文件 ..\..\..\src\base\ftbase.c)
+  ..\..\..\include\freetype/freetype.h(3357): note: 参见“FT_Get_Kerning”的前一个定义 (编译源文件 ..\..\..\src\base\ftbase.c)
+g:\freetype-2.8.1\src\cff\cffload.c(1371): warning C4244: “=”: 从“FT_UInt32”转换到“FT_Byte”，可能丢失数据 (编译源文件 ..\..\..\src\cff\cff.c)
+g:\freetype-2.8.1\src\base\ftobjs.c(3297): warning C4273: “FT_Get_Track_Kerning”: dll 链接不一致 (编译源文件 ..\..\..\src\base\ftbase.c)
+  ..\..\..\include\freetype/freetype.h(3398): note: 参见“FT_Get_Track_Kerning”的前一个定义 (编译源文件 ..\..\..\src\base\ftbase.c)
+g:\freetype-2.8.1\src\base\ftobjs.c(3326): warning C4273: “FT_Select_Charmap”: dll 链接不一致 (编译源文件 ..\..\..\src\base\ftbase.c)
+  ..\..\..\include\freetype/freetype.h(3509): note: 参见“FT_Select_Charmap”的前一个定义 (编译源文件 ..\..\..\src\base\ftbase.c)
+g:\freetype-2.8.1\src\base\ftobjs.c(3368): warning C4273: “FT_Set_Charmap”: dll 链接不一致 (编译源文件 ..\..\..\src\base\ftbase.c)
+  ..\..\..\include\freetype/freetype.h(3539): note: 参见“FT_Set_Charmap”的前一个定义 (编译源文件 ..\..\..\src\base\ftbase.c)
+g:\freetype-2.8.1\src\base\ftobjs.c(3402): warning C4273: “FT_Get_Charmap_Index”: dll 链接不一致 (编译源文件 ..\..\..\src\base\ftbase.c)
+  ..\..\..\include\freetype/freetype.h(3561): note: 参见“FT_Get_Charmap_Index”的前一个定义 (编译源文件 ..\..\..\src\base\ftbase.c)
+g:\freetype-2.8.1\src\base\ftobjs.c(3537): warning C4273: “FT_Get_Char_Index”: dll 链接不一致 (编译源文件 ..\..\..\src\base\ftbase.c)
+  ..\..\..\include\freetype/freetype.h(3595): note: 参见“FT_Get_Char_Index”的前一个定义 (编译源文件 ..\..\..\src\base\ftbase.c)
+g:\freetype-2.8.1\src\base\ftobjs.c(3566): warning C4273: “FT_Get_First_Char”: dll 链接不一致 (编译源文件 ..\..\..\src\base\ftbase.c)
+  ..\..\..\include\freetype/freetype.h(3649): note: 参见“FT_Get_First_Char”的前一个定义 (编译源文件 ..\..\..\src\base\ftbase.c)
+g:\freetype-2.8.1\src\base\ftobjs.c(3592): warning C4273: “FT_Get_Next_Char”: dll 链接不一致 (编译源文件 ..\..\..\src\base\ftbase.c)
+  ..\..\..\include\freetype/freetype.h(3684): note: 参见“FT_Get_Next_Char”的前一个定义 (编译源文件 ..\..\..\src\base\ftbase.c)
+g:\freetype-2.8.1\src\base\ftobjs.c(3625): warning C4273: “FT_Face_Properties”: dll 链接不一致 (编译源文件 ..\..\..\src\base\ftbase.c)
+  ..\..\..\include\freetype/freetype.h(3780): note: 参见“FT_Face_Properties”的前一个定义 (编译源文件 ..\..\..\src\base\ftbase.c)
+g:\freetype-2.8.1\src\base\ftobjs.c(3709): warning C4273: “FT_Face_GetCharVariantIndex”: dll 链接不一致 (编译源文件 ..\..\..\src\base\ftbase.c)
+  ..\..\..\include\freetype/freetype.h(4071): note: 参见“FT_Face_GetCharVariantIndex”的前一个定义 (编译源文件 ..\..\..\src\base\ftbase.c)
+g:\freetype-2.8.1\src\base\ftobjs.c(3755): warning C4273: “FT_Face_GetCharVariantIsDefault”: dll 链接不一致 (编译源文件 ..\..\..\src\base\ftbase.c)
+  ..\..\..\include\freetype/freetype.h(4107): note: 参见“FT_Face_GetCharVariantIsDefault”的前一个定义 (编译源文件 ..\..\..\src\base\ftbase.c)
+g:\freetype-2.8.1\src\base\ftobjs.c(3796): warning C4273: “FT_Face_GetVariantSelectors”: dll 链接不一致 (编译源文件 ..\..\..\src\base\ftbase.c)
+  ..\..\..\include\freetype/freetype.h(4138): note: 参见“FT_Face_GetVariantSelectors”的前一个定义 (编译源文件 ..\..\..\src\base\ftbase.c)
+g:\freetype-2.8.1\src\base\ftobjs.c(3824): warning C4273: “FT_Face_GetVariantsOfChar”: dll 链接不一致 (编译源文件 ..\..\..\src\base\ftbase.c)
+  ..\..\..\include\freetype/freetype.h(4171): note: 参见“FT_Face_GetVariantsOfChar”的前一个定义 (编译源文件 ..\..\..\src\base\ftbase.c)
+g:\freetype-2.8.1\src\base\ftobjs.c(3858): warning C4273: “FT_Face_GetCharsOfVariant”: dll 链接不一致 (编译源文件 ..\..\..\src\base\ftbase.c)
+  ..\..\..\include\freetype/freetype.h(4205): note: 参见“FT_Face_GetCharsOfVariant”的前一个定义 (编译源文件 ..\..\..\src\base\ftbase.c)
+g:\freetype-2.8.1\src\base\ftobjs.c(3893): warning C4273: “FT_Get_Name_Index”: dll 链接不一致 (编译源文件 ..\..\..\src\base\ftbase.c)
+  ..\..\..\include\freetype/freetype.h(3802): note: 参见“FT_Get_Name_Index”的前一个定义 (编译源文件 ..\..\..\src\base\ftbase.c)
+g:\freetype-2.8.1\src\base\ftobjs.c(3923): warning C4273: “FT_Get_Glyph_Name”: dll 链接不一致 (编译源文件 ..\..\..\src\base\ftbase.c)
+  ..\..\..\include\freetype/freetype.h(3444): note: 参见“FT_Get_Glyph_Name”的前一个定义 (编译源文件 ..\..\..\src\base\ftbase.c)
+g:\freetype-2.8.1\src\base\ftobjs.c(3957): warning C4273: “FT_Get_Postscript_Name”: dll 链接不一致 (编译源文件 ..\..\..\src\base\ftbase.c)
+  ..\..\..\include\freetype/freetype.h(3477): note: 参见“FT_Get_Postscript_Name”的前一个定义 (编译源文件 ..\..\..\src\base\ftbase.c)
+g:\freetype-2.8.1\src\base\ftobjs.c(3987): warning C4273: “FT_Get_Sfnt_Table”: dll 链接不一致 (编译源文件 ..\..\..\src\base\ftbase.c)
+  ..\..\..\include\freetype/tttables.h(677): note: 参见“FT_Get_Sfnt_Table”的前一个定义 (编译源文件 ..\..\..\src\base\ftbase.c)
+g:\freetype-2.8.1\src\base\ftobjs.c(4011): warning C4273: “FT_Load_Sfnt_Table”: dll 链接不一致 (编译源文件 ..\..\..\src\base\ftbase.c)
+  ..\..\..\include\freetype/tttables.h(746): note: 参见“FT_Load_Sfnt_Table”的前一个定义 (编译源文件 ..\..\..\src\base\ftbase.c)
+g:\freetype-2.8.1\src\base\ftobjs.c(4033): warning C4273: “FT_Sfnt_Table_Info”: dll 链接不一致 (编译源文件 ..\..\..\src\base\ftbase.c)
+  ..\..\..\include\freetype/tttables.h(789): note: 参见“FT_Sfnt_Table_Info”的前一个定义 (编译源文件 ..\..\..\src\base\ftbase.c)
+g:\freetype-2.8.1\src\base\ftobjs.c(4055): warning C4273: “FT_Get_CMap_Language_ID”: dll 链接不一致 (编译源文件 ..\..\..\src\base\ftbase.c)
+  ..\..\..\include\freetype/tttables.h(816): note: 参见“FT_Get_CMap_Language_ID”的前一个定义 (编译源文件 ..\..\..\src\base\ftbase.c)
+g:\freetype-2.8.1\src\base\ftobjs.c(4079): warning C4273: “FT_Get_CMap_Format”: dll 链接不一致 (编译源文件 ..\..\..\src\base\ftbase.c)
+  ..\..\..\include\freetype/tttables.h(836): note: 参见“FT_Get_CMap_Format”的前一个定义 (编译源文件 ..\..\..\src\base\ftbase.c)
+g:\freetype-2.8.1\src\base\ftobjs.c(4103): warning C4273: “FT_Activate_Size”: dll 链接不一致 (编译源文件 ..\..\..\src\base\ftbase.c)
+  ..\..\..\include\freetype/ftsizes.h(149): note: 参见“FT_Activate_Size”的前一个定义 (编译源文件 ..\..\..\src\base\ftbase.c)
+g:\freetype-2.8.1\src\base\ftobjs.c(4290): warning C4273: “FT_Get_Renderer”: dll 链接不一致 (编译源文件 ..\..\..\src\base\ftbase.c)
+  ..\..\..\include\freetype/ftrender.h(185): note: 参见“FT_Get_Renderer”的前一个定义 (编译源文件 ..\..\..\src\base\ftbase.c)
+g:\freetype-2.8.1\src\base\ftobjs.c(4304): warning C4273: “FT_Set_Renderer”: dll 链接不一致 (编译源文件 ..\..\..\src\base\ftbase.c)
+  ..\..\..\include\freetype/ftrender.h(220): note: 参见“FT_Set_Renderer”的前一个定义 (编译源文件 ..\..\..\src\base\ftbase.c)
+g:\freetype-2.8.1\src\base\ftobjs.c(4470): warning C4273: “FT_Render_Glyph”: dll 链接不一致 (编译源文件 ..\..\..\src\base\ftbase.c)
+  ..\..\..\include\freetype/freetype.h(3270): note: 参见“FT_Render_Glyph”的前一个定义 (编译源文件 ..\..\..\src\base\ftbase.c)
+g:\freetype-2.8.1\src\base\ftobjs.c(4544): warning C4273: “FT_Add_Module”: dll 链接不一致 (编译源文件 ..\..\..\src\base\ftbase.c)
+  ..\..\..\include\freetype/ftmodapi.h(256): note: 参见“FT_Add_Module”的前一个定义 (编译源文件 ..\..\..\src\base\ftbase.c)
+g:\freetype-2.8.1\src\base\ftobjs.c(4657): warning C4273: “FT_Get_Module”: dll 链接不一致 (编译源文件 ..\..\..\src\base\ftbase.c)
+  ..\..\..\include\freetype/ftmodapi.h(281): note: 参见“FT_Get_Module”的前一个定义 (编译源文件 ..\..\..\src\base\ftbase.c)
+g:\freetype-2.8.1\src\base\ftobjs.c(4747): warning C4273: “FT_Remove_Module”: dll 链接不一致 (编译源文件 ..\..\..\src\base\ftbase.c)
+  ..\..\..\include\freetype/ftmodapi.h(306): note: 参见“FT_Remove_Module”的前一个定义 (编译源文件 ..\..\..\src\base\ftbase.c)
+g:\freetype-2.8.1\src\base\ftobjs.c(4877): warning C4273: “FT_Property_Set”: dll 链接不一致 (编译源文件 ..\..\..\src\base\ftbase.c)
+  ..\..\..\include\freetype/ftmodapi.h(371): note: 参见“FT_Property_Set”的前一个定义 (编译源文件 ..\..\..\src\base\ftbase.c)
+g:\freetype-2.8.1\src\base\ftobjs.c(4894): warning C4273: “FT_Property_Get”: dll 链接不一致 (编译源文件 ..\..\..\src\base\ftbase.c)
+  ..\..\..\include\freetype/ftmodapi.h(435): note: 参见“FT_Property_Get”的前一个定义 (编译源文件 ..\..\..\src\base\ftbase.c)
+g:\freetype-2.8.1\src\base\ftobjs.c(4943): warning C4273: “FT_Reference_Library”: dll 链接不一致 (编译源文件 ..\..\..\src\base\ftbase.c)
+  ..\..\..\include\freetype/ftmodapi.h(506): note: 参见“FT_Reference_Library”的前一个定义 (编译源文件 ..\..\..\src\base\ftbase.c)
+g:\freetype-2.8.1\src\base\ftobjs.c(4958): warning C4273: “FT_New_Library”: dll 链接不一致 (编译源文件 ..\..\..\src\base\ftbase.c)
+  ..\..\..\include\freetype/ftmodapi.h(543): note: 参见“FT_New_Library”的前一个定义 (编译源文件 ..\..\..\src\base\ftbase.c)
+g:\freetype-2.8.1\src\base\ftobjs.c(5011): warning C4273: “FT_Library_Version”: dll 链接不一致 (编译源文件 ..\..\..\src\base\ftbase.c)
+  ..\..\..\include\freetype/freetype.h(4493): note: 参见“FT_Library_Version”的前一个定义 (编译源文件 ..\..\..\src\base\ftbase.c)
+g:\freetype-2.8.1\src\base\ftobjs.c(5039): warning C4273: “FT_Done_Library”: dll 链接不一致 (编译源文件 ..\..\..\src\base\ftbase.c)
+  ..\..\..\include\freetype/ftmodapi.h(567): note: 参见“FT_Done_Library”的前一个定义 (编译源文件 ..\..\..\src\base\ftbase.c)
+g:\freetype-2.8.1\src\base\ftobjs.c(5149): warning C4273: “FT_Set_Debug_Hook”: dll 链接不一致 (编译源文件 ..\..\..\src\base\ftbase.c)
+  ..\..\..\include\freetype/ftmodapi.h(603): note: 参见“FT_Set_Debug_Hook”的前一个定义 (编译源文件 ..\..\..\src\base\ftbase.c)
+g:\freetype-2.8.1\src\base\ftobjs.c(5161): warning C4273: “FT_Get_TrueType_Engine_Type”: dll 链接不一致 (编译源文件 ..\..\..\src\base\ftbase.c)
+  ..\..\..\include\freetype/ftmodapi.h(700): note: 参见“FT_Get_TrueType_Engine_Type”的前一个定义 (编译源文件 ..\..\..\src\base\ftbase.c)
+g:\freetype-2.8.1\src\base\ftobjs.c(5198): warning C4273: “FT_Get_SubGlyph_Info”: dll 链接不一致 (编译源文件 ..\..\..\src\base\ftbase.c)
+  ..\..\..\include\freetype/freetype.h(3880): note: 参见“FT_Get_SubGlyph_Info”的前一个定义 (编译源文件 ..\..\..\src\base\ftbase.c)
+g:\freetype-2.8.1\src\base\ftoutln.c(54): warning C4273: “FT_Outline_Decompose”: dll 链接不一致 (编译源文件 ..\..\..\src\base\ftbase.c)
+  ..\..\..\include\freetype/ftoutln.h(123): note: 参见“FT_Outline_Decompose”的前一个定义 (编译源文件 ..\..\..\src\base\ftbase.c)
+g:\freetype-2.8.1\src\base\ftoutln.c(303): warning C4273: “FT_Outline_New_Internal”: dll 链接不一致 (编译源文件 ..\..\..\src\base\ftbase.c)
+  ..\..\..\include\freetype/ftoutln.h(166): note: 参见“FT_Outline_New_Internal”的前一个定义 (编译源文件 ..\..\..\src\base\ftbase.c)
+g:\freetype-2.8.1\src\base\ftoutln.c(345): warning C4273: “FT_Outline_New”: dll 链接不一致 (编译源文件 ..\..\..\src\base\ftbase.c)
+  ..\..\..\include\freetype/ftoutln.h(159): note: 参见“FT_Outline_New”的前一个定义 (编译源文件 ..\..\..\src\base\ftbase.c)
+g:\freetype-2.8.1\src\base\ftoutln.c(358): warning C4273: “FT_Outline_Check”: dll 链接不一致 (编译源文件 ..\..\..\src\base\ftbase.c)
+  ..\..\..\include\freetype/ftoutln.h(225): note: 参见“FT_Outline_Check”的前一个定义 (编译源文件 ..\..\..\src\base\ftbase.c)
+g:\freetype-2.8.1\src\base\ftoutln.c(404): warning C4273: “FT_Outline_Copy”: dll 链接不一致 (编译源文件 ..\..\..\src\base\ftbase.c)
+  ..\..\..\include\freetype/ftoutln.h(301): note: 参见“FT_Outline_Copy”的前一个定义 (编译源文件 ..\..\..\src\base\ftbase.c)
+g:\freetype-2.8.1\src\base\ftoutln.c(441): warning C4273: “FT_Outline_Done_Internal”: dll 链接不一致 (编译源文件 ..\..\..\src\base\ftbase.c)
+  ..\..\..\include\freetype/ftoutln.h(202): note: 参见“FT_Outline_Done_Internal”的前一个定义 (编译源文件 ..\..\..\src\base\ftbase.c)
+g:\freetype-2.8.1\src\base\ftoutln.c(465): warning C4273: “FT_Outline_Done”: dll 链接不一致 (编译源文件 ..\..\..\src\base\ftbase.c)
+  ..\..\..\include\freetype/ftoutln.h(197): note: 参见“FT_Outline_Done”的前一个定义 (编译源文件 ..\..\..\src\base\ftbase.c)
+g:\freetype-2.8.1\src\base\ftoutln.c(480): warning C4273: “FT_Outline_Get_CBox”: dll 链接不一致 (编译源文件 ..\..\..\src\base\ftbase.c)
+  ..\..\..\include\freetype/ftoutln.h(255): note: 参见“FT_Outline_Get_CBox”的前一个定义 (编译源文件 ..\..\..\src\base\ftbase.c)
+g:\freetype-2.8.1\src\base\ftoutln.c(531): warning C4273: “FT_Outline_Translate”: dll 链接不一致 (编译源文件 ..\..\..\src\base\ftbase.c)
+  ..\..\..\include\freetype/ftoutln.h(276): note: 参见“FT_Outline_Translate”的前一个定义 (编译源文件 ..\..\..\src\base\ftbase.c)
+g:\freetype-2.8.1\src\base\ftoutln.c(554): warning C4273: “FT_Outline_Reverse”: dll 链接不一致 (编译源文件 ..\..\..\src\base\ftbase.c)
+  ..\..\..\include\freetype/ftoutln.h(417): note: 参见“FT_Outline_Reverse”的前一个定义 (编译源文件 ..\..\..\src\base\ftbase.c)
+g:\freetype-2.8.1\src\base\ftoutln.c(617): warning C4273: “FT_Outline_Render”: dll 链接不一致 (编译源文件 ..\..\..\src\base\ftbase.c)
+  ..\..\..\include\freetype/ftoutln.h(494): note: 参见“FT_Outline_Render”的前一个定义 (编译源文件 ..\..\..\src\base\ftbase.c)
+g:\freetype-2.8.1\src\base\ftoutln.c(664): warning C4273: “FT_Outline_Get_Bitmap”: dll 链接不一致 (编译源文件 ..\..\..\src\base\ftbase.c)
+  ..\..\..\include\freetype/ftoutln.h(452): note: 参见“FT_Outline_Get_Bitmap”的前一个定义 (编译源文件 ..\..\..\src\base\ftbase.c)
+g:\freetype-2.8.1\src\base\ftoutln.c(690): warning C4273: “FT_Vector_Transform”: dll 链接不一致 (编译源文件 ..\..\..\src\base\ftbase.c)
+  ..\..\..\include\freetype/freetype.h(4403): note: 参见“FT_Vector_Transform”的前一个定义 (编译源文件 ..\..\..\src\base\ftbase.c)
+g:\freetype-2.8.1\src\base\ftoutln.c(713): warning C4273: “FT_Outline_Transform”: dll 链接不一致 (编译源文件 ..\..\..\src\base\ftbase.c)
+  ..\..\..\include\freetype/ftoutln.h(325): note: 参见“FT_Outline_Transform”的前一个定义 (编译源文件 ..\..\..\src\base\ftbase.c)
+g:\freetype-2.8.1\src\base\ftoutln.c(901): warning C4273: “FT_Outline_Embolden”: dll 链接不一致 (编译源文件 ..\..\..\src\base\ftbase.c)
+  ..\..\..\include\freetype/ftoutln.h(373): note: 参见“FT_Outline_Embolden”的前一个定义 (编译源文件 ..\..\..\src\base\ftbase.c)
+g:\freetype-2.8.1\src\base\ftoutln.c(912): warning C4273: “FT_Outline_EmboldenXY”: dll 链接不一致 (编译源文件 ..\..\..\src\base\ftbase.c)
+  ..\..\..\include\freetype/ftoutln.h(392): note: 参见“FT_Outline_EmboldenXY”的前一个定义 (编译源文件 ..\..\..\src\base\ftbase.c)
+g:\freetype-2.8.1\src\base\ftoutln.c(1045): warning C4273: “FT_Outline_Get_Orientation”: dll 链接不一致 (编译源文件 ..\..\..\src\base\ftbase.c)
+  ..\..\..\include\freetype/ftoutln.h(570): note: 参见“FT_Outline_Get_Orientation”的前一个定义 (编译源文件 ..\..\..\src\base\ftbase.c)
+g:\freetype-2.8.1\src\base\ftsnames.c(37): warning C4273: “FT_Get_Sfnt_Name_Count”: dll 链接不一致 (编译源文件 ..\..\..\src\base\ftbase.c)
+  ..\..\..\include\freetype/ftsnames.h(133): note: 参见“FT_Get_Sfnt_Name_Count”的前一个定义 (编译源文件 ..\..\..\src\base\ftbase.c)
+g:\freetype-2.8.1\src\base\ftsnames.c(48): warning C4273: “FT_Get_Sfnt_Name”: dll 链接不一致 (编译源文件 ..\..\..\src\base\ftbase.c)
+  ..\..\..\include\freetype/ftsnames.h(168): note: 参见“FT_Get_Sfnt_Name”的前一个定义 (编译源文件 ..\..\..\src\base\ftbase.c)
+g:\freetype-2.8.1\src\base\ftsnames.c(99): warning C4273: “FT_Get_Sfnt_LangTag”: dll 链接不一致 (编译源文件 ..\..\..\src\base\ftbase.c)
+  ..\..\..\include\freetype/ftsnames.h(233): note: 参见“FT_Get_Sfnt_LangTag”的前一个定义 (编译源文件 ..\..\..\src\base\ftbase.c)
+g:\freetype-2.8.1\src\base\fttrigon.c(299): warning C4273: “FT_Cos”: dll 链接不一致 (编译源文件 ..\..\..\src\base\ftbase.c)
+  ..\..\..\include\freetype/fttrigon.h(148): note: 参见“FT_Cos”的前一个定义 (编译源文件 ..\..\..\src\base\ftbase.c)
+g:\freetype-2.8.1\src\base\fttrigon.c(313): warning C4273: “FT_Sin”: dll 链接不一致 (编译源文件 ..\..\..\src\base\ftbase.c)
+  ..\..\..\include\freetype/fttrigon.h(124): note: 参见“FT_Sin”的前一个定义 (编译源文件 ..\..\..\src\base\ftbase.c)
+g:\freetype-2.8.1\src\base\fttrigon.c(327): warning C4273: “FT_Tan”: dll 链接不一致 (编译源文件 ..\..\..\src\base\ftbase.c)
+  ..\..\..\include\freetype/fttrigon.h(168): note: 参见“FT_Tan”的前一个定义 (编译源文件 ..\..\..\src\base\ftbase.c)
+g:\freetype-2.8.1\src\base\fttrigon.c(342): warning C4273: “FT_Atan2”: dll 链接不一致 (编译源文件 ..\..\..\src\base\ftbase.c)
+  ..\..\..\include\freetype/fttrigon.h(192): note: 参见“FT_Atan2”的前一个定义 (编译源文件 ..\..\..\src\base\ftbase.c)
+g:\freetype-2.8.1\src\base\fttrigon.c(363): warning C4273: “FT_Vector_Unit”: dll 链接不一致 (编译源文件 ..\..\..\src\base\ftbase.c)
+  ..\..\..\include\freetype/fttrigon.h(244): note: 参见“FT_Vector_Unit”的前一个定义 (编译源文件 ..\..\..\src\base\ftbase.c)
+g:\freetype-2.8.1\src\base\fttrigon.c(388): warning C4273: “FT_Vector_Rotate”: dll 链接不一致 (编译源文件 ..\..\..\src\base\ftbase.c)
+  ..\..\..\include\freetype/fttrigon.h(266): note: 参见“FT_Vector_Rotate”的前一个定义 (编译源文件 ..\..\..\src\base\ftbase.c)
+g:\freetype-2.8.1\src\base\fttrigon.c(427): warning C4273: “FT_Vector_Length”: dll 链接不一致 (编译源文件 ..\..\..\src\base\ftbase.c)
+  ..\..\..\include\freetype/fttrigon.h(288): note: 参见“FT_Vector_Length”的前一个定义 (编译源文件 ..\..\..\src\base\ftbase.c)
+g:\freetype-2.8.1\src\base\fttrigon.c(466): warning C4273: “FT_Vector_Polarize”: dll 链接不一致 (编译源文件 ..\..\..\src\base\ftbase.c)
+  ..\..\..\include\freetype/fttrigon.h(312): note: 参见“FT_Vector_Polarize”的前一个定义 (编译源文件 ..\..\..\src\base\ftbase.c)
+g:\freetype-2.8.1\src\base\fttrigon.c(496): warning C4273: “FT_Vector_From_Polar”: dll 链接不一致 (编译源文件 ..\..\..\src\base\ftbase.c)
+  ..\..\..\include\freetype/fttrigon.h(338): note: 参见“FT_Vector_From_Polar”的前一个定义 (编译源文件 ..\..\..\src\base\ftbase.c)
+g:\freetype-2.8.1\src\base\fttrigon.c(512): warning C4273: “FT_Angle_Diff”: dll 链接不一致 (编译源文件 ..\..\..\src\base\ftbase.c)
+  ..\..\..\include\freetype/fttrigon.h(217): note: 参见“FT_Angle_Diff”的前一个定义 (编译源文件 ..\..\..\src\base\ftbase.c)
+  ftsystem.c
+g:\freetype-2.8.1\src\base\ftutil.c(246): warning C4273: “FT_List_Find”: dll 链接不一致 (编译源文件 ..\..\..\src\base\ftbase.c)
+  ..\..\..\include\freetype/ftlist.h(94): note: 参见“FT_List_Find”的前一个定义 (编译源文件 ..\..\..\src\base\ftbase.c)
+  smooth.c
+g:\freetype-2.8.1\src\base\ftutil.c(271): warning C4273: “FT_List_Add”: dll 链接不一致 (编译源文件 ..\..\..\src\base\ftbase.c)
+  ..\..\..\include\freetype/ftlist.h(111): note: 参见“FT_List_Add”的前一个定义 (编译源文件 ..\..\..\src\base\ftbase.c)
+g:\freetype-2.8.1\src\base\ftutil.c(297): warning C4273: “FT_List_Insert”: dll 链接不一致 (编译源文件 ..\..\..\src\base\ftbase.c)
+  ..\..\..\include\freetype/ftlist.h(128): note: 参见“FT_List_Insert”的前一个定义 (编译源文件 ..\..\..\src\base\ftbase.c)
+g:\freetype-2.8.1\src\base\ftutil.c(323): warning C4273: “FT_List_Remove”: dll 链接不一致 (编译源文件 ..\..\..\src\base\ftbase.c)
+  ..\..\..\include\freetype/ftlist.h(148): note: 参见“FT_List_Remove”的前一个定义 (编译源文件 ..\..\..\src\base\ftbase.c)
+g:\freetype-2.8.1\src\base\ftutil.c(350): warning C4273: “FT_List_Up”: dll 链接不一致 (编译源文件 ..\..\..\src\base\ftbase.c)
+  ..\..\..\include\freetype/ftlist.h(166): note: 参见“FT_List_Up”的前一个定义 (编译源文件 ..\..\..\src\base\ftbase.c)
+g:\freetype-2.8.1\src\base\ftutil.c(384): warning C4273: “FT_List_Iterate”: dll 链接不一致 (编译源文件 ..\..\..\src\base\ftbase.c)
+  ..\..\..\include\freetype/ftlist.h(210): note: 参见“FT_List_Iterate”的前一个定义 (编译源文件 ..\..\..\src\base\ftbase.c)
+g:\freetype-2.8.1\src\base\ftutil.c(417): warning C4273: “FT_List_Finalize”: dll 链接不一致 (编译源文件 ..\..\..\src\base\ftbase.c)
+  ..\..\..\include\freetype/ftlist.h(263): note: 参见“FT_List_Finalize”的前一个定义 (编译源文件 ..\..\..\src\base\ftbase.c)
+  ftmm.c
+  pcf.c
+..\..\..\src\base\ftmm.c(99): warning C4273: “FT_Get_Multi_Master”: dll 链接不一致
+  ..\..\..\include\freetype/ftmm.h(269): note: 参见“FT_Get_Multi_Master”的前一个定义 (编译源文件 ..\..\..\src\base\ftmm.c)
+..\..\..\src\base\ftmm.c(126): warning C4273: “FT_Get_MM_Var”: dll 链接不一致
+  ..\..\..\include\freetype/ftmm.h(295): note: 参见“FT_Get_MM_Var”的前一个定义 (编译源文件 ..\..\..\src\base\ftmm.c)
+..\..\..\src\base\ftmm.c(154): warning C4273: “FT_Set_MM_Design_Coordinates”: dll 链接不一致
+  ..\..\..\include\freetype/ftmm.h(331): note: 参见“FT_Set_MM_Design_Coordinates”的前一个定义 (编译源文件 ..\..\..\src\base\ftmm.c)
+..\..\..\src\base\ftmm.c(189): warning C4273: “FT_Set_Var_Design_Coordinates”: dll 链接不一致
+  ..\..\..\include\freetype/ftmm.h(366): note: 参见“FT_Set_Var_Design_Coordinates”的前一个定义 (编译源文件 ..\..\..\src\base\ftmm.c)
+..\..\..\src\base\ftmm.c(233): warning C4273: “FT_Get_Var_Design_Coordinates”: dll 链接不一致
+  ..\..\..\include\freetype/ftmm.h(396): note: 参见“FT_Get_Var_Design_Coordinates”的前一个定义 (编译源文件 ..\..\..\src\base\ftmm.c)
+..\..\..\src\base\ftmm.c(261): warning C4273: “FT_Set_MM_Blend_Coordinates”: dll 链接不一致
+  ..\..\..\include\freetype/ftmm.h(435): note: 参见“FT_Set_MM_Blend_Coordinates”的前一个定义 (编译源文件 ..\..\..\src\base\ftmm.c)
+..\..\..\src\base\ftmm.c(308): warning C4273: “FT_Set_Var_Blend_Coordinates”: dll 链接不一致
+  ..\..\..\include\freetype/ftmm.h(480): note: 参见“FT_Set_Var_Blend_Coordinates”的前一个定义 (编译源文件 ..\..\..\src\base\ftmm.c)
+..\..\..\src\base\ftmm.c(352): warning C4273: “FT_Get_MM_Blend_Coordinates”: dll 链接不一致
+  ..\..\..\include\freetype/ftmm.h(466): note: 参见“FT_Get_MM_Blend_Coordinates”的前一个定义 (编译源文件 ..\..\..\src\base\ftmm.c)
+..\..\..\src\base\ftmm.c(383): warning C4273: “FT_Get_Var_Blend_Coordinates”: dll 链接不一致
+  ..\..\..\include\freetype/ftmm.h(494): note: 参见“FT_Get_Var_Blend_Coordinates”的前一个定义 (编译源文件 ..\..\..\src\base\ftmm.c)
+..\..\..\src\base\ftmm.c(411): warning C4273: “FT_Get_Var_Axis_Flags”: dll 链接不一致
+  ..\..\..\include\freetype/ftmm.h(538): note: 参见“FT_Get_Var_Axis_Flags”的前一个定义 (编译源文件 ..\..\..\src\base\ftmm.c)
+  pfr.c
+  psaux.c
+g:\freetype-2.8.1\src\base\ftobjs.c(4999): warning C4702: 无法访问的代码
+g:\freetype-2.8.1\src\base\ftobjs.c(5000): warning C4702: 无法访问的代码
+  pshinter.c
+g:\freetype-2.8.1\src\psaux\t1decode.c(1370): warning C4267: “=”: 从“size_t”转换到“FT_Int”，可能丢失数据 (编译源文件 ..\..\..\src\psaux\psaux.c)
+  psmodule.c
+  raster.c
+  sfnt.c
+  truetype.c
+g:\freetype-2.8.1\src\sfnt\sfdriver.c(838): warning C4267: “=”: 从“size_t”转换到“FT_UInt”，可能丢失数据 (编译源文件 ..\..\..\src\sfnt\sfnt.c)
+g:\freetype-2.8.1\src\sfnt\sfdriver.c(988): warning C4244: “函数”: 从“__int64”转换到“const unsigned int”，可能丢失数据 (编译源文件 ..\..\..\src\sfnt\sfnt.c)
+  type1.c
+g:\freetype-2.8.1\src\sfnt\ttload.c : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 ..\..\..\src\sfnt\sfnt.c)
+g:\freetype-2.8.1\src\truetype\ttgload.c(1714): warning C4312: “类型转换”: 从“unsigned long”转换到更大的“void *” (编译源文件 ..\..\..\src\truetype\truetype.c)
+g:\freetype-2.8.1\src\truetype\ttinterp.c(584): warning C4273: “TT_New_Context”: dll 链接不一致 (编译源文件 ..\..\..\src\truetype\truetype.c)
+  g:\freetype-2.8.1\src\truetype\ttinterp.h(488): note: 参见“TT_New_Context”的前一个定义 (编译源文件 ..\..\..\src\truetype\truetype.c)
+g:\freetype-2.8.1\src\truetype\ttinterp.c(7622): warning C4273: “TT_RunIns”: dll 链接不一致 (编译源文件 ..\..\..\src\truetype\truetype.c)
+  g:\freetype-2.8.1\src\truetype\ttinterp.h(531): note: 参见“TT_RunIns”的前一个定义 (编译源文件 ..\..\..\src\truetype\truetype.c)
+g:\freetype-2.8.1\src\truetype\ttobjs.c(788): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 ..\..\..\src\truetype\truetype.c)
+  type1cid.c
+  type42.c
+g:\freetype-2.8.1\src\type1\t1driver.c(269): warning C4267: “=”: 从“size_t”转换到“FT_ULong”，可能丢失数据 (编译源文件 ..\..\..\src\type1\type1.c)
+g:\freetype-2.8.1\src\type1\t1driver.c(289): warning C4267: “=”: 从“size_t”转换到“FT_ULong”，可能丢失数据 (编译源文件 ..\..\..\src\type1\type1.c)
+g:\freetype-2.8.1\src\type1\t1driver.c(321): warning C4267: “=”: 从“size_t”转换到“FT_ULong”，可能丢失数据 (编译源文件 ..\..\..\src\type1\type1.c)
+g:\freetype-2.8.1\src\type1\t1driver.c(351): warning C4267: “=”: 从“size_t”转换到“FT_UInt”，可能丢失数据 (编译源文件 ..\..\..\src\type1\type1.c)
+g:\freetype-2.8.1\src\type1\t1driver.c(558): warning C4267: “=”: 从“size_t”转换到“FT_ULong”，可能丢失数据 (编译源文件 ..\..\..\src\type1\type1.c)
+g:\freetype-2.8.1\src\type1\t1driver.c(564): warning C4267: “=”: 从“size_t”转换到“FT_ULong”，可能丢失数据 (编译源文件 ..\..\..\src\type1\type1.c)
+g:\freetype-2.8.1\src\type1\t1driver.c(570): warning C4267: “=”: 从“size_t”转换到“FT_ULong”，可能丢失数据 (编译源文件 ..\..\..\src\type1\type1.c)
+g:\freetype-2.8.1\src\type1\t1driver.c(576): warning C4267: “=”: 从“size_t”转换到“FT_ULong”，可能丢失数据 (编译源文件 ..\..\..\src\type1\type1.c)
+g:\freetype-2.8.1\src\type1\t1driver.c(582): warning C4267: “=”: 从“size_t”转换到“FT_ULong”，可能丢失数据 (编译源文件 ..\..\..\src\type1\type1.c)
+g:\freetype-2.8.1\src\type1\t1load.c(1528): warning C4244: “=”: 从“__int64”转换到“FT_Int”，可能丢失数据 (编译源文件 ..\..\..\src\type1\type1.c)
+g:\freetype-2.8.1\src\type1\t1load.c(1689): warning C4244: “=”: 从“__int64”转换到“FT_Int”，可能丢失数据 (编译源文件 ..\..\..\src\type1\type1.c)
+  winfnt.c
+g:\freetype-2.8.1\src\type42\t42parse.c(821): warning C4244: “=”: 从“__int64”转换到“FT_Int”，可能丢失数据 (编译源文件 ..\..\..\src\type42\type42.c)
+cl : 命令行 warning D9002: 忽略未知选项“/arch:SSE2”
+  ftdebug.c
+    正在创建库 .\..\..\..\objs\vc2010\x64\freetype281MT.lib 和对象 .\..\..\..\objs\vc2010\x64\freetype281MT.exp
+autofit.obj : warning LNK4217: 本地定义的符号 FT_Load_Glyph 在函数 af_cjk_metrics_init_blues 中导入
+ftcache.obj : warning LNK4049: 已导入本地定义的符号 FT_Load_Glyph
+autofit.obj : warning LNK4217: 本地定义的符号 FT_Select_Charmap 在函数 af_indic_metrics_init 中导入
+autofit.obj : warning LNK4217: 本地定义的符号 FT_Set_Charmap 在函数 af_indic_metrics_init 中导入
+ftcache.obj : warning LNK4049: 已导入本地定义的符号 FT_Set_Charmap
+type1.obj : warning LNK4049: 已导入本地定义的符号 FT_Set_Charmap
+autofit.obj : warning LNK4217: 本地定义的符号 FT_Get_Char_Index 在函数 af_face_globals_compute_style_coverage 中导入
+ftcache.obj : warning LNK4049: 已导入本地定义的符号 FT_Get_Char_Index
+type1.obj : warning LNK4049: 已导入本地定义的符号 FT_Get_Char_Index
+autofit.obj : warning LNK4217: 本地定义的符号 FT_Get_Next_Char 在函数 af_face_globals_compute_style_coverage 中导入
+winfnt.obj : warning LNK4049: 已导入本地定义的符号 FT_MulDiv
+raster.obj : warning LNK4049: 已导入本地定义的符号 FT_MulDiv
+sfnt.obj : warning LNK4049: 已导入本地定义的符号 FT_MulDiv
+truetype.obj : warning LNK4049: 已导入本地定义的符号 FT_MulDiv
+type1.obj : warning LNK4049: 已导入本地定义的符号 FT_MulDiv
+ftbbox.obj : warning LNK4049: 已导入本地定义的符号 FT_MulDiv
+pcf.obj : warning LNK4049: 已导入本地定义的符号 FT_MulDiv
+pfr.obj : warning LNK4049: 已导入本地定义的符号 FT_MulDiv
+pshinter.obj : warning LNK4049: 已导入本地定义的符号 FT_MulDiv
+autofit.obj : warning LNK4217: 本地定义的符号 FT_MulDiv 在函数 af_cjk_hint_edges 中导入
+bdf.obj : warning LNK4049: 已导入本地定义的符号 FT_MulDiv
+cff.obj : warning LNK4049: 已导入本地定义的符号 FT_MulDiv
+ftstroke.obj : warning LNK4049: 已导入本地定义的符号 FT_MulDiv
+type1.obj : warning LNK4049: 已导入本地定义的符号 FT_MulFix
+type1cid.obj : warning LNK4049: 已导入本地定义的符号 FT_MulFix
+pfr.obj : warning LNK4049: 已导入本地定义的符号 FT_MulFix
+psaux.obj : warning LNK4049: 已导入本地定义的符号 FT_MulFix
+pshinter.obj : warning LNK4049: 已导入本地定义的符号 FT_MulFix
+truetype.obj : warning LNK4049: 已导入本地定义的符号 FT_MulFix
+autofit.obj : warning LNK4217: 本地定义的符号 FT_MulFix 在函数 af_cjk_hints_compute_blue_edges 中导入
+cff.obj : warning LNK4049: 已导入本地定义的符号 FT_MulFix
+ftstroke.obj : warning LNK4049: 已导入本地定义的符号 FT_MulFix
+ftsynth.obj : warning LNK4049: 已导入本地定义的符号 FT_MulFix
+type1cid.obj : warning LNK4049: 已导入本地定义的符号 FT_DivFix
+type42.obj : warning LNK4049: 已导入本地定义的符号 FT_DivFix
+psaux.obj : warning LNK4049: 已导入本地定义的符号 FT_DivFix
+pshinter.obj : warning LNK4049: 已导入本地定义的符号 FT_DivFix
+truetype.obj : warning LNK4049: 已导入本地定义的符号 FT_DivFix
+type1.obj : warning LNK4049: 已导入本地定义的符号 FT_DivFix
+autofit.obj : warning LNK4217: 本地定义的符号 FT_DivFix 在函数 af_cjk_hints_compute_edges 中导入
+cff.obj : warning LNK4049: 已导入本地定义的符号 FT_DivFix
+ftstroke.obj : warning LNK4049: 已导入本地定义的符号 FT_DivFix
+pfr.obj : warning LNK4049: 已导入本地定义的符号 FT_DivFix
+autofit.obj : warning LNK4217: 本地定义的符号 FT_Vector_Transform 在函数 af_loader_load_glyph 中导入
+ftglyph.obj : warning LNK4049: 已导入本地定义的符号 FT_Vector_Transform
+type1cid.obj : warning LNK4049: 已导入本地定义的符号 FT_Outline_Get_CBox
+pfr.obj : warning LNK4049: 已导入本地定义的符号 FT_Outline_Get_CBox
+raster.obj : warning LNK4049: 已导入本地定义的符号 FT_Outline_Get_CBox
+truetype.obj : warning LNK4049: 已导入本地定义的符号 FT_Outline_Get_CBox
+type1.obj : warning LNK4049: 已导入本地定义的符号 FT_Outline_Get_CBox
+autofit.obj : warning LNK4217: 本地定义的符号 FT_Outline_Get_CBox 在函数 af_loader_load_glyph 中导入
+cff.obj : warning LNK4049: 已导入本地定义的符号 FT_Outline_Get_CBox
+ftglyph.obj : warning LNK4049: 已导入本地定义的符号 FT_Outline_Get_CBox
+smooth.obj : warning LNK4049: 已导入本地定义的符号 FT_Outline_Get_CBox
+raster.obj : warning LNK4049: 已导入本地定义的符号 FT_Outline_Translate
+truetype.obj : warning LNK4049: 已导入本地定义的符号 FT_Outline_Translate
+type1.obj : warning LNK4049: 已导入本地定义的符号 FT_Outline_Translate
+type1cid.obj : warning LNK4049: 已导入本地定义的符号 FT_Outline_Translate
+autofit.obj : warning LNK4217: 本地定义的符号 FT_Outline_Translate 在函数 af_loader_load_glyph 中导入
+cff.obj : warning LNK4049: 已导入本地定义的符号 FT_Outline_Translate
+ftglyph.obj : warning LNK4049: 已导入本地定义的符号 FT_Outline_Translate
+smooth.obj : warning LNK4049: 已导入本地定义的符号 FT_Outline_Translate
+type1cid.obj : warning LNK4049: 已导入本地定义的符号 FT_Outline_Transform
+ftsynth.obj : warning LNK4049: 已导入本地定义的符号 FT_Outline_Transform
+raster.obj : warning LNK4049: 已导入本地定义的符号 FT_Outline_Transform
+truetype.obj : warning LNK4049: 已导入本地定义的符号 FT_Outline_Transform
+type1.obj : warning LNK4049: 已导入本地定义的符号 FT_Outline_Transform
+autofit.obj : warning LNK4217: 本地定义的符号 FT_Outline_Transform 在函数 af_loader_embolden_glyph_in_slot 中导入
+cff.obj : warning LNK4049: 已导入本地定义的符号 FT_Outline_Transform
+ftglyph.obj : warning LNK4049: 已导入本地定义的符号 FT_Outline_Transform
+smooth.obj : warning LNK4049: 已导入本地定义的符号 FT_Outline_Transform
+autofit.obj : warning LNK4217: 本地定义的符号 FT_Outline_EmboldenXY 在函数 af_loader_embolden_glyph_in_slot 中导入
+ftsynth.obj : warning LNK4049: 已导入本地定义的符号 FT_Outline_EmboldenXY
+autofit.obj : warning LNK4217: 本地定义的符号 FT_Outline_Get_Orientation 在函数 af_glyph_hints_reload 中导入
+ftstroke.obj : warning LNK4049: 已导入本地定义的符号 FT_Outline_Get_Orientation
+autofit.obj : warning LNK4217: 本地定义的符号 FT_Matrix_Invert 在函数 af_loader_load_glyph 中导入
+autofit.obj : warning LNK4217: 本地定义的符号 FT_Get_Advance 在函数 af_latin_metrics_init 中导入
+type1cid.obj : warning LNK4049: 已导入本地定义的符号 FT_RoundFix
+cff.obj : warning LNK4217: 本地定义的符号 FT_RoundFix 在函数 cff_parse_font_bbox 中导入
+psaux.obj : warning LNK4049: 已导入本地定义的符号 FT_RoundFix
+pshinter.obj : warning LNK4049: 已导入本地定义的符号 FT_RoundFix
+type1.obj : warning LNK4217: 本地定义的符号 FT_RoundFix 在函数 parse_encoding 中导入
+type1cid.obj : warning LNK4049: 已导入本地定义的符号 FT_Get_Module
+type42.obj : warning LNK4049: 已导入本地定义的符号 FT_Get_Module
+cff.obj : warning LNK4217: 本地定义的符号 FT_Get_Module 在函数 cff_get_interface 中导入
+sfnt.obj : warning LNK4049: 已导入本地定义的符号 FT_Get_Module
+truetype.obj : warning LNK4217: 本地定义的符号 FT_Get_Module 在函数 TT_Load_Glyph 中导入
+type1.obj : warning LNK4217: 本地定义的符号 FT_Get_Module 在函数 T1_Read_PFM 中导入
+ftcache.obj : warning LNK4217: 本地定义的符号 FT_Done_Face 在函数 ftc_face_node_done 中导入
+type42.obj : warning LNK4049: 已导入本地定义的符号 FT_Done_Face
+ftcache.obj : warning LNK4217: 本地定义的符号 FT_Set_Char_Size 在函数 ftc_scaler_lookup_size 中导入
+ftcache.obj : warning LNK4217: 本地定义的符号 FT_Set_Pixel_Sizes 在函数 ftc_scaler_lookup_size 中导入
+ftcache.obj : warning LNK4217: 本地定义的符号 FT_Get_Glyph 在函数 ftc_basic_family_load_glyph 中导入
+ftcache.obj : warning LNK4217: 本地定义的符号 FT_Done_Glyph 在函数 ftc_inode_free 中导入
+ftstroke.obj : warning LNK4049: 已导入本地定义的符号 FT_Done_Glyph
+ftcache.obj : warning LNK4217: 本地定义的符号 FT_New_Size 在函数 ftc_scaler_lookup_size 中导入
+type42.obj : warning LNK4049: 已导入本地定义的符号 FT_New_Size
+ftcache.obj : warning LNK4217: 本地定义的符号 FT_Done_Size 在函数 ftc_size_node_done 中导入
+type42.obj : warning LNK4049: 已导入本地定义的符号 FT_Done_Size
+ftcache.obj : warning LNK4217: 本地定义的符号 FT_Activate_Size 在函数 ftc_size_node_compare 中导入
+type42.obj : warning LNK4049: 已导入本地定义的符号 FT_Activate_Size
+ftfstype.obj : warning LNK4217: 本地定义的符号 FT_Get_Sfnt_Table 在函数 FT_Get_FSType_Flags 中导入
+ftglyph.obj : warning LNK4217: 本地定义的符号 FT_Outline_New 在函数 ft_outline_glyph_init 中导入
+ftstroke.obj : warning LNK4049: 已导入本地定义的符号 FT_Outline_New
+ftglyph.obj : warning LNK4217: 本地定义的符号 FT_Outline_Done 在函数 ft_outline_glyph_done 中导入
+ftstroke.obj : warning LNK4049: 已导入本地定义的符号 FT_Outline_Done
+ftglyph.obj : warning LNK4217: 本地定义的符号 FT_Outline_Copy 在函数 ft_outline_glyph_init 中导入
+ftglyph.obj : warning LNK4217: 本地定义的符号 FT_Bitmap_Init 在函数 ft_bitmap_glyph_init 中导入
+sfnt.obj : warning LNK4049: 已导入本地定义的符号 FT_Bitmap_Init
+ftglyph.obj : warning LNK4217: 本地定义的符号 FT_Bitmap_Copy 在函数 ft_bitmap_glyph_init 中导入
+ftglyph.obj : warning LNK4217: 本地定义的符号 FT_Bitmap_Done 在函数 ft_bitmap_glyph_done 中导入
+sfnt.obj : warning LNK4049: 已导入本地定义的符号 FT_Bitmap_Done
+ftinit.obj : warning LNK4217: 本地定义的符号 FT_Add_Module 在函数 FT_Add_Default_Modules 中导入
+ftinit.obj : warning LNK4217: 本地定义的符号 FT_New_Library 在函数 FT_Init_FreeType 中导入
+ftinit.obj : warning LNK4217: 本地定义的符号 FT_Done_Library 在函数 FT_Done_FreeType 中导入
+ftstroke.obj : warning LNK4217: 本地定义的符号 FT_Glyph_Copy 在函数 FT_Glyph_Stroke 中导入
+ftstroke.obj : warning LNK4217: 本地定义的符号 FT_Sin 在函数 FT_Stroker_ConicTo 中导入
+ftstroke.obj : warning LNK4217: 本地定义的符号 FT_Cos 在函数 FT_Stroker_ConicTo 中导入
+ftstroke.obj : warning LNK4217: 本地定义的符号 FT_Tan 在函数 ft_stroker_inside 中导入
+ftstroke.obj : warning LNK4217: 本地定义的符号 FT_Atan2 在函数 FT_Stroker_ConicTo 中导入
+ftstroke.obj : warning LNK4217: 本地定义的符号 FT_Angle_Diff 在函数 FT_Stroker_ConicTo 中导入
+ftstroke.obj : warning LNK4217: 本地定义的符号 FT_Vector_Length 在函数 FT_Stroker_ConicTo 中导入
+ftstroke.obj : warning LNK4217: 本地定义的符号 FT_Vector_From_Polar 在函数 FT_Stroker_ConicTo 中导入
+smooth.obj : warning LNK4217: 本地定义的符号 FT_Outline_Decompose 在函数 gray_convert_glyph_inner 中导入
+ftbbox.obj : warning LNK4049: 已导入本地定义的符号 FT_Outline_Decompose
+ftpfr.obj : warning LNK4217: 本地定义的符号 FT_Get_Kerning 在函数 FT_Get_PFR_Kerning 中导入
+ftsynth.obj : warning LNK4217: 本地定义的符号 FT_Bitmap_Embolden 在函数 FT_GlyphSlot_Embolden 中导入
+ftsynth.obj : warning LNK4217: 本地定义的符号 FT_GlyphSlot_Own_Bitmap 在函数 FT_GlyphSlot_Embolden 中导入
+pcf.obj : warning LNK4217: 本地定义的符号 FT_Stream_OpenGzip 在函数 PCF_Face_Init 中导入
+pcf.obj : warning LNK4217: 本地定义的符号 FT_Stream_OpenLZW 在函数 PCF_Face_Init 中导入
+sfnt.obj : warning LNK4217: 本地定义的符号 FT_Gzip_Uncompress 在函数 woff_open_font 中导入
+sfnt.obj : warning LNK4217: 本地定义的符号 FT_Bitmap_Convert 在函数 tt_face_load_sbit_image 中导入
+truetype.obj : warning LNK4217: 本地定义的符号 FT_Get_Glyph_Name 在函数 tt_check_single_notdef 中导入
+truetype.obj : warning LNK4217: 本地定义的符号 FT_List_Find 在函数 load_truetype_glyph 中导入
+type42.obj : warning LNK4049: 已导入本地定义的符号 FT_List_Find
+truetype.obj : warning LNK4217: 本地定义的符号 FT_List_Add 在函数 load_truetype_glyph 中导入
+truetype.obj : warning LNK4217: 本地定义的符号 FT_List_Iterate 在函数 tt_face_init 中导入
+truetype.obj : warning LNK4217: 本地定义的符号 FT_List_Finalize 在函数 TT_Load_Glyph 中导入
+type42.obj : warning LNK4217: 本地定义的符号 FT_Open_Face 在函数 T42_Face_Init 中导入
+type42.obj : warning LNK4217: 本地定义的符号 FT_Select_Size 在函数 T42_Size_Select 中导入
+type42.obj : warning LNK4217: 本地定义的符号 FT_Request_Size 在函数 T42_Size_Request 中导入
+  freetype.vcxproj -> G:\freetype-2.8.1\builds\windows\vc2010\.\..\..\..\objs\vc2010\x64\freetype281MT.dll
