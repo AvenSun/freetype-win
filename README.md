@@ -12,3 +12,6 @@
 4. pick up correct dll according to your windows, drop it into python root or system path.
 5. after finished all above,you can enjoy now !
 
+# visual studio solution
+In order to work with freetype-py, changes are made on [ftconfig.h ](https://github.com/Adesun/freetype-win/blob/master/freetype-2.8.1/include/freetype/config/ftconfig.h)
+
